@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:kgtrey1/nes.git",
   "author": "Kevin Gouyet <kevin.gouyet@protonmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
 }
