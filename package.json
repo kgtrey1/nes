@@ -7,6 +7,14 @@
   "author": "Kevin Gouyet <kevin.gouyet@protonmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^22.0.2",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.3",
+    "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "mos6502": "^1.0.11"
   }
 }
